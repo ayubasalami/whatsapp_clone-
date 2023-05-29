@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>807163179008-vfs06qb7hnfhf34ffijth9e0ai4mka8m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807163179008-vfs06qb7hnfhf34ffijth9e0ai4mka8m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEjMcsVzOyt_NmIi0QpheU_-vjDfjm6gE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807163179008</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chatify</string>
+	<key>PROJECT_ID</key>
+	<string>whatsapp-backend-659c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsapp-backend-659c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807163179008:ios:fe251bee1872d96e29e8e5</string>
+</dict>
+</plist>
